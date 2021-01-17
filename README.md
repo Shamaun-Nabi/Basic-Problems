@@ -6,4 +6,3 @@
 </ul>
 
 <h3 style="color: red;">Happy coding</h3>
-<h3> This is for testing purpose </h3>
